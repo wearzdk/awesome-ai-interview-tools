@@ -62,6 +62,7 @@ AI tools to help optimize resumes for Applicant Tracking Systems and improve job
 | [Kickresume](https://kickresume.com) | AI resume builder with templates, cover letter generator, and website builder. | Limited |
 | [Resume Worded](https://resumeworded.com) | AI-powered resume and LinkedIn profile optimization with instant feedback. | Limited |
 | [OfferGenie](https://offergenie.ai) | AI interview copilot combined with resume optimization and job search tools. | Limited |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker (3/day no account, 10/day free account) + AI resume builder. State of ATS 2026: 738 employers, Workday 37.9%. | ✅ |
 
 ## Interview Prep Platforms
 
@@ -140,6 +141,7 @@ AI tools focused on improving verbal communication, presentation skills, and int
 - **[Teal](https://tealhq.com)** - AI 简历构建器和求职管理平台。
 - **[Kickresume](https://kickresume.com)** - AI 简历构建器，提供模板和求职信生成器。
 - **[Resume Worded](https://resumeworded.com)** - AI 驱动的简历和 LinkedIn 个人资料优化。
+- **[ResumeAI](https://withresumeai.com/)** - 免费 ATS 检查（无账号每天 3 次，免费账号每天 10 次）+ State of ATS 2026（738 家雇主，Workday 37.9%）。
 
 ### 面试准备平台
 
