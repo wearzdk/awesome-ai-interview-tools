@@ -37,6 +37,7 @@ Tools that provide live assistance during actual interviews, including real-time
 | [Interviews.Chat](https://interviews.chat) | Real-time transcription and suggestions in multiple languages during interviews. | Web |
 | [InterviewPal](https://interviewpal.com) | Invisible AI interview assistant with real-time, role-specific answers in popular video call platforms. | Desktop |
 | [Verve AI](https://vervecopilot.com) | Advanced AI interview copilot with real-time transcription, personalized suggestions, and analytics. | Web, Desktop |
+| [Luna Interview](https://lunainterview.xyz/) | Interview copilot side panel that suggests answers from your own notes and stories during Meet/Zoom calls. | Chrome, Windows, Mac, iPhone |
 
 ## AI Mock Interview & Practice
 
@@ -125,6 +126,7 @@ AI tools focused on improving verbal communication, presentation skills, and int
 - **[Interviews.Chat](https://interviews.chat)** - 多语言实时转录与回答建议。
 - **[InterviewPal](https://interviewpal.com)** - 隐形 AI 面试助手，在视频通话中提供实时针对性回答。
 - **[Verve AI](https://vervecopilot.com)** - 高级 AI 面试副驾驶，提供实时转录和个性化建议。
+- - **[Luna Interview](https://lunainterview.xyz/)** - Chrome 侧边栏面试副驾驶：用你自己的笔记和故事在 Meet/Zoom 中生成回答建议。
 
 ### AI 模拟面试与练习
 
