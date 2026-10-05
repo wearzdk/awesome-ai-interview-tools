@@ -93,6 +93,7 @@ AI tools focused on improving verbal communication, presentation skills, and int
 | [Poised](https://poised.com) | AI-powered communication coach for meetings and interviews with real-time feedback. | Desktop |
 | [Orai](https://orai.com) | AI speech coaching app that analyzes your speech patterns and provides improvement tips. | iOS, Android |
 | [Yoodli](https://yoodli.ai) | AI speech analytics for public speaking and interview practice. | Web |
+| [AI Group Call](https://aigroupcall.app) | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. | - |
 
 ---
 
