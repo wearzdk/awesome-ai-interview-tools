@@ -48,6 +48,7 @@ Platforms focused on simulated interview practice with AI feedback and scoring.
 | [Pramp](https://pramp.com) | Free peer-to-peer mock interview platform for coding and system design, with AI matching. | ✅ |
 | [InterviewBuddy](https://interviewbuddy.net) | AI and expert-led mock interview platform with real-time feedback and performance tracking. | Limited |
 | [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) | Free AI-powered interview practice by Google, covering various job fields. | ✅ |
+| [JobEmerge](https://www.jobemerge.work) | Text-based AI mock interviews with job-fit analysis and resume tools. | Limited |
 | [Yoodli](https://yoodli.ai) | AI speech coach that helps you practice interviews and improve speaking skills with real-time feedback. | ✅ |
 | [Interview Sidekick](https://interviewsidekick.com) | Live feedback and post-interview insights with realistic interview simulations. | Limited |
 
@@ -132,6 +133,7 @@ AI tools focused on improving verbal communication, presentation skills, and int
 - **[Pramp](https://pramp.com)** - 免费的点对点模拟面试平台，支持编程和系统设计。
 - **[InterviewBuddy](https://interviewbuddy.net)** - AI 和专家指导的模拟面试平台。
 - **[Google Interview Warmup](https://grow.google/certificates/interview-warmup/)** - Google 推出的免费 AI 面试练习工具。
+- **[JobEmerge](https://www.jobemerge.work)** - 文字式 AI 模拟面试，并提供岗位匹配分析和简历工具。
 - **[Yoodli](https://yoodli.ai)** - AI 演讲教练，帮助练习面试并改善表达能力。
 
 ### 简历优化与 ATS 工具
